@@ -1,5 +1,5 @@
 # Python
-# Start-OpenCV-Python
+
 
 # Beginner Track On Python with OpenCV
 
